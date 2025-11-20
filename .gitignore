@@ -1,0 +1,15 @@
+- _pycache_/
+- *.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+.jupyter/
+.ipython/
+
+# Generated notebooks / outputs
+packet_signature_detector-ran.ipynb
+
